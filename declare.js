@@ -1,5 +1,10 @@
-const pen = {brand: 'matador', price: 10, color: 'black'}
-const pencil = new Object();
-console.log(pencil);
-const rubber = Object.create({});
-console.log(rubber);
+// const pen = {brand: 'matador', price: 10, color: 'black'}
+// const pencil = new Object();
+// console.log(pencil);
+// const rubber = Object.create({});
+// console.log(rubber);
+
+
+const str = "Hello";
+str[0] = "h";
+console.log(str);
